@@ -8,3 +8,11 @@ The staging area will hold specific data that will go into a commit.
 The working area is the area within the repositiory
 The repository contains the git metadata
 The staging area allows you to specifiy specific commits rather than committing everything in the working area
+
+>How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area shows you if modifications have been made between your commit and your change
+
+>What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Any situation in which I might wish to make want to add an experimental feature or change something in a certain direction
