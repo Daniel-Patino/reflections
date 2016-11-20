@@ -7,4 +7,4 @@ When you initialize a repositiory you are allowing git to add metadata that will
 The staging area will hold specific data that will go into a commit.
 The working area is the area within the repositiory
 The repository contains the git metadata
-The staging area allows you to specifiy specific commits rather than committing everything in the working areat
+The staging area allows you to specifiy specific commits rather than committing everything in the working area
