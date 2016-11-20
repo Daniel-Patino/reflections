@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repositiory you are allowing git to add metadata that will be important for it to function properly
